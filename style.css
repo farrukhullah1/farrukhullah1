@@ -1,0 +1,200 @@
+
+.carousel-inner h5 {
+    color: white;
+}
+
+.carousel-inner p {
+    color: white;
+}
+
+
+
+
+.carousel {
+    margin-bottom: 30px;
+}
+
+
+
+
+.column1 {
+    text-align: center;
+    padding-top: 10px;
+
+}
+.column1 h3 {
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.column1 button {
+    
+    border: none;
+    font-size: large;
+    background-color: white;
+}
+.column1 a {
+    color: black;
+}
+.column1 p {
+    font-family: sans-serif;
+    letter-spacing: 1px;
+}
+
+
+.coat h4 {
+    margin-top: 15px;
+    font-weight: 400;
+    text-align: center;
+
+}
+.urban h4 {
+    margin-top: 15px;
+    font-weight: 400;
+    text-align: center;
+
+}
+
+.daily h4 {
+    margin-top: 15px;
+    font-weight: 400;
+    text-align: center;
+
+}
+
+
+.winter25  {
+    margin: 20px;
+    text-align: left;
+    font-family: sans-serif;
+    letter-spacing: 2px;
+    margin-top: 200px;
+
+}
+.winter25 h3 {
+    padding-bottom: 20px;
+    font-weight: 600;
+    font-size:xx-large;
+}
+.winter25 button {
+    border: none;
+    font-size: large;
+    background-color: white;
+    padding-right: 5px;
+}
+
+.winter25 p {
+    font-family: sans-serif;
+}
+
+.winter25 button a {
+    color: black;
+}
+
+
+.container {
+    display: inline;
+}
+
+
+
+
+
+
+
+.trending {
+  text-align: center;
+  padding: 60px 20px;
+  
+}
+
+.trending .title {
+  font-size: 36px;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+
+.trending .subtitle {
+  color: #555;
+  font-size: 13px;
+  letter-spacing: 2px;
+  margin-top: 10px;
+}
+
+.categories {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  gap: 60px;
+}
+
+.categories a {
+  text-decoration: none;
+  color: #111;
+  font-weight: 500;
+  font-size: 15px;
+  letter-spacing: 1px;
+  transition: all 0.3s ease;
+}
+
+.categories a:hover,
+.categories a.active {
+  text-decoration: underline;
+  font-weight: 600;
+}
+
+
+
+
+
+
+
+.parent {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 0px;
+}
+    
+        
+
+
+
+
+
+
+
+
+
+ footer {
+      background-color: #f8f9fa;
+      padding-top: 40px;
+      color: #000;
+    }
+    .footer-top {
+      border-bottom: 1px solid #ddd;
+      padding-bottom: 30px;
+      margin-bottom: 30px;
+    }
+    .footer-top i {
+      font-size: 32px;
+      color: #000;
+      margin-bottom: 10px;
+    }
+    .footer-bottom a {
+      text-decoration: none;
+      color: #000;
+      display: block;
+      margin-bottom: 8px;
+    }
+    .footer-bottom a:hover {
+      text-decoration: underline;
+    }
+    .social-icons i {
+      font-size: 22px;
+      margin-right: 10px;
+      color: #000;
+    }
+    .subscribe-btn {
+      background-color: #000;
+      color: #fff;
+    }
